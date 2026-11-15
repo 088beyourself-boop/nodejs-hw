@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Prepare weekly report",
+    "content": "Collect project updates and send the report to the team.",
+    "tag": "Work"
+  },
+  {
+    "title": "Call family",
+    "content": "Plan a video call for Sunday evening.",
+    "tag": "Personal"
+  },
+  {
+    "title": "Sprint planning",
+    "content": "Review the backlog and prepare questions for the team.",
+    "tag": "Meeting"
+  },
+  {
+    "title": "Buy groceries",
+    "content": "Milk, bread, vegetables, rice and coffee.",
+    "tag": "Shopping"
+  },
+  {
+    "title": "Portfolio improvements",
+    "content": "Add a project case study and update the contact section.",
+    "tag": "Ideas"
+  },
+  {
+    "title": "Weekend trip",
+    "content": "Compare train tickets and reserve accommodation.",
+    "tag": "Travel"
+  },
+  {
+    "title": "Monthly budget",
+    "content": "Review subscriptions and plan next month's expenses.",
+    "tag": "Finance"
+  },
+  {
+    "title": "Morning workout",
+    "content": "Complete a 30-minute strength training session.",
+    "tag": "Health"
+  },
+  {
+    "title": "Renew documents",
+    "content": "Check the expiration date and prepare the application.",
+    "tag": "Important"
+  },
+  {
+    "title": "Finish Node.js homework",
+    "content": "Test all CRUD routes and deploy the API to Render.",
+    "tag": "Todo"
+  }
+]
