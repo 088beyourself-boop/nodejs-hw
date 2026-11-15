@@ -2,6 +2,8 @@
 
 Express and MongoDB server for the Node.js homework.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/088beyourself-boop/nodejs-hw/tree/02-mongodb)
+
 ## Run locally
 
 ```bash

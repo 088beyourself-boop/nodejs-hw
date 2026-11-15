@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: nodejs-hw
+    runtime: node
+    plan: free
+    region: frankfurt
+    branch: 02-mongodb
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /notes
+    autoDeployTrigger: commit
+    envVars:
+      - key: MONGO_URL
+        sync: false
+      - key: NODE_VERSION
+        value: 22
