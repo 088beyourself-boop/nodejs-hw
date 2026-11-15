@@ -1,6 +1,6 @@
 # nodejs-hw
 
-Express server for the first Node.js homework.
+Express and MongoDB server for the Node.js homework.
 
 ## Run locally
 
@@ -15,4 +15,6 @@ Copy `.env.example` to `.env` if the environment file is missing.
 
 - `GET /notes`
 - `GET /notes/:noteId`
-- `GET /test-error`
+- `POST /notes`
+- `PATCH /notes/:noteId`
+- `DELETE /notes/:noteId`
